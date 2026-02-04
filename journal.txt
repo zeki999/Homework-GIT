@@ -1,2 +1,3 @@
 "Entry 1: Starting my Git journey."
 "Entry 2: Learning the difference between staging and committing."
+"Entry 3: Testing branches"
